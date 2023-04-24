@@ -2315,7 +2315,7 @@
 									"font": "Arial;13;0",
 									"left": 741.5,
 									"top": 1435.5,
-									"width": 181.24072265625,
+									"width": 181,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGn9gS4NThq24="
@@ -3785,7 +3785,7 @@
 									"font": "Arial;13;0",
 									"left": 1090.5,
 									"top": 747.5,
-									"width": 243.3525390625,
+									"width": 243,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGn+E2TVFQswY="
@@ -3995,7 +3995,7 @@
 									"font": "Arial;13;0",
 									"left": 1104.5,
 									"top": 912.5,
-									"width": 232.498046875,
+									"width": 231,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGn+GEfVlhMpg="
@@ -5227,7 +5227,7 @@
 									"font": "Arial;13;0",
 									"left": 1112,
 									"top": 1075.5,
-									"width": 231.7998046875,
+									"width": 231,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGn+R3TbWHgH0="
@@ -8006,9 +8006,9 @@
 																"$ref": "AAAAAAGHXeue3tZt2cg="
 															},
 															"font": "Arial;13;0",
-															"left": 24.72998046875,
+															"left": 22.55908203125,
 															"top": 5,
-															"width": 115.8798828125,
+															"width": 105.33642578125,
 															"height": 13,
 															"text": "Registro Plataforma"
 														},
@@ -8021,7 +8021,7 @@
 															"font": "Arial;13;1",
 															"left": 5,
 															"top": 5,
-															"width": 14.72998046875,
+															"width": 12.55908203125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -8694,9 +8694,9 @@
 														"$ref": "AAAAAAGHXeCFbKQtlZU="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 5,
-													"width": 100.708984375,
+													"width": 89.78466796875,
 													"height": 13,
 													"text": "GerenciarOrdens"
 												},
@@ -8709,7 +8709,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 5,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -9826,9 +9826,9 @@
 														"$ref": "AAAAAAGHXdkejYBky+0="
 													},
 													"font": "Arial;13;0",
-													"left": 56.72998046875,
+													"left": 54.55908203125,
 													"top": 21,
-													"width": 104.32080078125,
+													"width": 97.0146484375,
 													"height": 13,
 													"text": "ManipularCarteira"
 												},
@@ -9841,7 +9841,7 @@
 													"font": "Arial;13;1",
 													"left": 37,
 													"top": 21,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -10440,9 +10440,9 @@
 														"$ref": "AAAAAAGHXcYdQb7lLcI="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 5,
-													"width": 112.03955078125,
+													"width": 101.29296875,
 													"height": 13,
 													"text": "VisualizarCotações"
 												},
@@ -10455,7 +10455,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 5,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -11346,9 +11346,9 @@
 																"$ref": "AAAAAAGHXewZ1tfxUmE="
 															},
 															"font": "Arial;13;0",
-															"left": 24.72998046875,
+															"left": 22.55908203125,
 															"top": 13,
-															"width": 118.0634765625,
+															"width": 108.935546875,
 															"height": 13,
 															"text": "Autentifica Cadastro"
 														},
@@ -11361,7 +11361,7 @@
 															"font": "Arial;13;1",
 															"left": 5,
 															"top": 13,
-															"width": 14.72998046875,
+															"width": 12.55908203125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -11891,9 +11891,9 @@
 																"$ref": "AAAAAAGHXexeIdjK8BY="
 															},
 															"font": "Arial;13;0",
-															"left": 32.72998046875,
+															"left": 30.55908203125,
 															"top": 13,
-															"width": 80.47265625,
+															"width": 75.00732421875,
 															"height": 13,
 															"text": "Cria Relatório"
 														},
@@ -11906,7 +11906,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 13,
-															"width": 14.72998046875,
+															"width": 12.55908203125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -12447,9 +12447,9 @@
 																"$ref": "AAAAAAGHXbcH9l23WQM="
 															},
 															"font": "Arial;13;0",
-															"left": 40.72998046875,
+															"left": 38.55908203125,
 															"top": 5,
-															"width": 86.26806640625,
+															"width": 76.08642578125,
 															"height": 13,
 															"text": "ForneceDados"
 														},
@@ -12462,7 +12462,7 @@
 															"font": "Arial;13;1",
 															"left": 21,
 															"top": 5,
-															"width": 14.72998046875,
+															"width": 12.55908203125,
 															"height": 13,
 															"text": "sd"
 														}
@@ -12921,9 +12921,9 @@
 														"$ref": "AAAAAAGHXYb8wvyyW0Q="
 													},
 													"font": "Arial;13;0",
-													"left": 248.72998046875,
+													"left": 246.55908203125,
 													"top": 5,
-													"width": 48.66455078125,
+													"width": 45.77001953125,
 													"height": 13,
 													"text": "CriarOC"
 												},
@@ -12936,7 +12936,7 @@
 													"font": "Arial;13;1",
 													"left": 229,
 													"top": 5,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -14309,9 +14309,9 @@
 														"$ref": "AAAAAAGHXcEAFZRsRsU="
 													},
 													"font": "Arial;13;0",
-													"left": 248.72998046875,
+													"left": 246.55908203125,
 													"top": 5,
-													"width": 47.947265625,
+													"width": 46.4873046875,
 													"height": 13,
 													"text": "CriarOV"
 												},
@@ -14324,7 +14324,7 @@
 													"font": "Arial;13;1",
 													"left": 229,
 													"top": 5,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -20250,7 +20250,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHC6Ird0mUwBY="
 							},
-							"name": "StateMachine1",
+							"name": "DE - Cliente",
 							"ownedElements": [
 								{
 									"_type": "UMLStatechartDiagram",
@@ -21979,7 +21979,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHC6Ird0mis+I="
 							},
-							"name": "StateMachine1",
+							"name": "DE - Ordem",
 							"ownedElements": [
 								{
 									"_type": "UMLStatechartDiagram",
@@ -23563,7 +23563,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHC6IreEmuhuM="
 							},
-							"name": "StateMachine1",
+							"name": "DE - B3",
 							"ownedElements": [
 								{
 									"_type": "UMLStatechartDiagram",
@@ -25035,7 +25035,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHC6IreEmw/B0="
 							},
-							"name": "StateMachine1",
+							"name": "DE - Ação",
 							"ownedElements": [
 								{
 									"_type": "UMLStatechartDiagram",
@@ -25730,7 +25730,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHC6IreEmzYgI="
 							},
-							"name": "StateMachine1",
+							"name": "DE - Corretora",
 							"ownedElements": [
 								{
 									"_type": "UMLStatechartDiagram",
